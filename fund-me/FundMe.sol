@@ -55,4 +55,3 @@ contract FundMe {
         fund();
     }
 }
-

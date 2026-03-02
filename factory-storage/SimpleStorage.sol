@@ -28,4 +28,3 @@ contract SimpleStorage {
         nameToNumber[_name] = _favoriteNumber;
     }
 }
-
